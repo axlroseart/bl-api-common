@@ -1,0 +1,34 @@
+{
+  "name": "bl-api-common",
+  "version": "1.0.7",
+  "description": "blTech Api lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "ryan",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise": "^4.2.8",
+    "isomorphic-fetch": "^2.2.1",
+    "whatwg-fetch": "^2.0.4"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axlroseart/bl-api-common.git"
+  },
+  "bugs": {
+    "url": "https://github.com/axlroseart/bl-api-common/issues"
+  },
+  "homepage": "https://github.com/axlroseart/bl-api-common#readme"
+}
