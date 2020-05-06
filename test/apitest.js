@@ -1,4 +1,4 @@
-const apiConfig = require('../api.config.mjs')
+const apiConfig = require('./api.config.mjs')
 const CommonApi = require('../index')
 
 let instance = new CommonApi(apiConfig, 'https://ts-api.luckyins.com')
