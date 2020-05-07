@@ -1,6 +1,6 @@
 {
   "name": "bl-api-common",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "blTech Api lib",
   "main": "index.js",
   "scripts": {
